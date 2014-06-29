@@ -11,6 +11,6 @@
 @interface CalculatorBrain : NSObject
 
 - (void) pushOperand: (double)operand;
-- (double) perfomOperation : (NSString *) operation;
+- (double) performOperation : (NSString *) operation;
 
 @end

@@ -172,7 +172,6 @@
                                 </state>
                                 <connections>
                                     <action selector="enterPressed" destination="vXZ-lx-hvc" eventType="touchUpInside" id="pFi-G0-tpB"/>
-                                    <action selector="operationPressed:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="cWQ-ly-tfE"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -184,7 +183,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-102" y="221"/>
+            <point key="canvasLocation" x="81" y="10"/>
         </scene>
     </scenes>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
